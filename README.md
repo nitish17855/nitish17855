@@ -15,6 +15,7 @@
 <b> ** NIT Jamshedpur 
 <br> </br>
 <img src="https://img.shields.io/badge/status-transitioning_to_AI_Engineering-58A6FF?style=flat-square&labelColor=0d1117" alt="status"/>
+<br> </br>
 <img src="https://img.shields.io/badge/focus-backend_%2B_AI_systems-58A6FF?style=flat-square&labelColor=0d1117" alt="focus"/>
 
 <br/><br/>
