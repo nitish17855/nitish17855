@@ -23,8 +23,13 @@
 <br/><br/>
 
 <a href="https://github.com/nitish17855"><img src="https://img.shields.io/badge/GitHub-nitish17855-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nitish-tripathi-865037311/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nitishtripathi547@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -118,16 +123,7 @@
 
 <div align="center">
 
-### GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nitish17855&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish17855&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitish17855&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF"/>
-
-</div>
+<img src="https://streak-stats.demolab.com/?user=nitish17855&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -138,8 +134,8 @@
 
 <div align="center">
 
-<a href="https://github.com/nitish17855/Trackit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish17855&repo=Trackit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/></a>
-<a href="https://github.com/nitish17855/write"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish17855&repo=write&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/></a>
+<a href="https://github.com/nitish17855/Trackit"><img src="https://streak-stats.demolab.com?user=nitish17855&theme=tokyonight&hide_border=true"/></a>
+
 
 </div>
 
@@ -164,9 +160,7 @@
 
 ### Connect with Me
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>  https://www.linkedin.com/in/nitish-tripathi-865037311/</a>
 
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> nitishtripathi547@gmail.com</a>
 <a href="https://github.com/nitish17855">
   <img src="https://img.shields.io/badge/nitish17855-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
