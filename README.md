@@ -9,13 +9,10 @@
 <!-- ─────────────────────────── INTRODUCTION ─────────────────────────── -->
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Nitish+Tripathi;Backend+Engineering+%7C+AI+Systems; alt="Typing SVG" />
-</a>
+
 
 <br/>
-
-** NIT Jamshedpur 
+<b> ** NIT Jamshedpur 
 
 <img src="https://img.shields.io/badge/status-transitioning_to_AI_Engineering-58A6FF?style=flat-square&labelColor=0d1117" alt="status"/>
 <img src="https://img.shields.io/badge/focus-backend_%2B_AI_systems-58A6FF?style=flat-square&labelColor=0d1117" alt="focus"/>
