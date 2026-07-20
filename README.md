@@ -135,11 +135,10 @@
 
 ### Pinned Projects
 
-> Replace `repo-name` below with your actual repository slugs — this renders live cards pulled from GitHub.
 
 <div align="center">
 
-<a href="https://github.com/nitish17855/trackit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish17855&repo=trackit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/></a>
+<a href="https://github.com/nitish17855/Trackit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish17855&repo=Trackit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/></a>
 <a href="https://github.com/nitish17855/write"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish17855&repo=write&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/></a>
 
 </div>
@@ -165,10 +164,12 @@
 
 ### Connect with Me
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/nitish17855"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>  https://www.linkedin.com/in/nitish-tripathi-865037311/</a>
+
+<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> nitishtripathi547@gmail.com</a>
+<a href="https://github.com/nitish17855">
+  <img src="https://img.shields.io/badge/nitish17855-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
