@@ -127,13 +127,6 @@
 
 ---
 
-### Pinned Projects
-
-
-<div align="center">
-
-<a href="https://github.com/nitish17855/Trackit"><img src="https://streak-stats.demolab.com?user=nitish17855&theme=tokyonight&hide_border=true"/></a>
-
 
 </div>
 
