@@ -37,23 +37,23 @@
 
 ### About Me
 
-- Mechanical Engineering undergraduate at NIT Jamshedpur, transitioning into Software Engineering and Artificial Intelligence
+
 - I work mainly on backend systems and AI applications — the parts that connect models, APIs, and data to real users
-- I'd rather understand how something works internally than just call a library and move on
 - Most of my projects connect multiple pieces — frontend, backend, ML models, APIs, databases, LLMs — into one working system, not isolated demos
 - I'm more interested in how distributed services, ML pipelines, and AI agents communicate than in simply making an application run
-- Currently learning how **production AI systems** are designed — retrieval, model serving, evaluation, agentic workflows — not just how to train a model
+-Currently exploring the engineering behind production AI systems—designing inference pipelines, retrieval architectures, model orchestration, evaluation frameworks, and autonomous agent workflows .
 
 <br/>
 
 ### Current Focus
 
 ```text
-→ Designing AI-powered backend systems (Node.js / Express + ML services)
-→ Retrieval-Augmented Generation — chunking, hybrid retrieval, reranking, eval
-→ Production ML deployment — inference pipelines, model serving
-→ Workflow automation with n8n and API integrations
-→ System design for scalable, LLM-integrated APIs
+→ AI Infrastructure & Backend Engineering
+→ Retrieval-Augmented Systems (Embeddings • Hybrid Retrieval • Reranking • Evaluation)
+→ LLM Orchestration (Agents • Tool Calling • Memory • Multi-step Reasoning)
+→ Production ML (Inference Services • Model Serving • API Integration • Monitoring)
+→ Workflow Automation (n8n • Event-Driven Integrations • Asynchronous Processing)
+→ Scalable System Architecture (Microservices • Docker • Distributed Design Patterns)
 ```
 
 <br/>
@@ -98,7 +98,7 @@
 <div align="left">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Modern_JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Responsive_UI-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
 </div>
 
 **Automation**
